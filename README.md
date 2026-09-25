@@ -1,7 +1,10 @@
-<img width="1584" height="396" alt="3" src="https://github.com/user-attachments/assets/31684ac7-2868-41e6-a050-c83466497aa3" />
 
 
-### Full Stack Developer • AI / Product Builder
+https://github.com/user-attachments/assets/74635b6d-c85e-4984-aaa2-e861ed5be977
+
+
+
+### Full Stack Developer 
 
 I build **AI-powered, full-stack digital products** that combine engineering, data, and thoughtful user experiences.
 
