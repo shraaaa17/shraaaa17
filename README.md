@@ -44,29 +44,29 @@ A cinematic, video-first digital sales experience built with modern React/Next.j
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
-\`Python\` \`Java\` \`C#\` \`TypeScript\` \`JavaScript\` \`SQL\`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cs,js,ts,mysql" alt="Languages: Python, Java, C#, JavaScript, TypeScript, SQL" />
+</p>
 
-**Frontend**
+### Frontend
 
-\`React\` \`Next.js\` \`TypeScript\` \`Tailwind CSS\` \`GSAP\` \`Framer Motion\`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="Frontend: React, Next.js, Tailwind CSS, HTML, CSS" />
+</p>
 
-**Backend & Data**
+### Backend, Data & AI
 
-\`Firebase\` \`FastAPI\` \`REST APIs\` \`SQL\` \`Pandas\` \`NumPy\`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,fastapi,pandas,numpy,tensorflow" alt="Backend and AI: Firebase, FastAPI, Pandas, NumPy, TensorFlow" />
+</p>
 
-**AI / ML**
+### Web3 & Tools
 
-\`Machine Learning\` \`Computer Vision\` \`GenAI\` \`LLM Integration\`
-
-**Web3**
-
-\`Ethereum\` \`Polygon\` \`Smart Contracts\` \`NFTs\`
-
-**Core CS**
-
-\`OOP\` \`Data Structures & Algorithms\` \`Operating Systems\` \`Computer Networks\`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ethereum,solidity,git,github,vscode" alt="Web3 and tools: Ethereum, Solidity, Git, GitHub, VS Code" />
+</p>
 
 ---
 
