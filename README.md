@@ -1,4 +1,5 @@
-# Hi, I'm Shravani Ashish Chavan 👋
+<img width="1584" height="396" alt="3" src="https://github.com/user-attachments/assets/31684ac7-2868-41e6-a050-c83466497aa3" />
+
 
 ### Full Stack Developer • AI / Product Builder
 
