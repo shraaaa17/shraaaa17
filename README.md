@@ -1,8 +1,4 @@
-
-
-https://github.com/user-attachments/assets/74635b6d-c85e-4984-aaa2-e861ed5be977
-
-
+<img width="1584" height="396" alt="Black Monochrome Business LinkedIn Banner" src="https://github.com/user-attachments/assets/19a8060a-4a64-4487-8d36-1671aa9f312e" />
 
 ### Full Stack Developer 
 
