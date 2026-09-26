@@ -144,13 +144,7 @@ Cinematic, video-first digital sales experience built around motion, storytellin
 
 <div align="center">
 
-<a href="https://github.com/shraaaa17">
-<img src="https://github-readme-stats.vercel.app/api?username=shraaaa17&show_icons=true&hide_border=true&bg_color=0F0B08&title_color=D6A06A&text_color=E8DCCB&icon_color=B8794A&ring_color=B8794A" width="48%" alt="GitHub stats" />
-</a>
-
-<a href="https://github.com/shraaaa17">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shraaaa17&hide_border=true&background=0F0B08&ring=B8794A&fire=D6A06A&currStreakLabel=D6A06A&sideLabels=B9A895&currStreakNum=E8DCCB&sideNums=E8DCCB&dates=6F6257" width="48%" alt="GitHub streak" />
-</a>
+<img src="./assets/streak-board.svg" width="90%" alt="Animated coffee streak board" />
 
 </div>
 
