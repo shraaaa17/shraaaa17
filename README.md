@@ -2,7 +2,21 @@
 
 <br />
 
-[Portfolio📜](https://portfolio-mocha-three-71.vercel.app/) · [GitHub🖇️](https://github.com/shraaaa17) · [Say hello🧸](mailto:shravanich.17@gmail.com)
+<div align="center">
+
+<a href="https://portfolio-mocha-three-71.vercel.app/">
+  <img src="./assets/portfolio-button.svg" width="210" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/shraaaa17">
+  <img src="./assets/github-button.svg" width="210" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:shravanich.17@gmail.com">
+  <img src="./assets/hello-button.svg" width="210" alt="Say hello" />
+</a>
+
+</div>
 
 </div>
 
