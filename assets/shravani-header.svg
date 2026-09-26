@@ -25,8 +25,8 @@
   <circle cx="1410" cy="120" r="3" fill="#F5D5E0" opacity="0.5"/>
   <circle cx="1315" cy="145" r="4" fill="#F5D5E0" opacity="0.6"/>
   <path d="M1260 300 C1330 240 1390 330 1460 260 C1500 220 1530 235 1560 205" fill="none" stroke="#F5D5E0" stroke-opacity="0.28" stroke-width="2"/>
-  <text x="95" y="170" fill="#F5D5E0" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="3">SHRAVANI ASHISH CHAVAN</text>
-  <text x="99" y="225" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="5">FULL STACK  ·  AI  ·  PRODUCT ENGINEERING</text>
-  <text x="99" y="285" fill="#F5D5E0" fill-opacity="0.9" font-family="Arial, Helvetica, sans-serif" font-size="19">turning ambitious ideas into scalable digital products</text>
-  <text x="99" y="326" fill="#FFFFFF" fill-opacity="0.55" font-family="monospace" font-size="16">&lt;build / experiment / learn / ship /&gt;</text>
+  <text x="95" y="175" fill="#F5D5E0" font-family="Trebuchet MS, Century Gothic, Arial, sans-serif" font-size="60" font-weight="700" letter-spacing="3">SHRAVANI ASHISH CHAVAN</text>
+  <text x="99" y="238" fill="#FFFFFF" font-family="Trebuchet MS, Century Gothic, Arial, sans-serif" font-size="28" font-weight="600" letter-spacing="4">FULL STACK DEVELOPER</text>
+  <text x="99" y="294" fill="#F5D5E0" fill-opacity="0.9" font-family="Trebuchet MS, Century Gothic, Arial, sans-serif" font-size="19">turning ambitious ideas into scalable digital products</text>
+  <text x="99" y="335" fill="#FFFFFF" fill-opacity="0.55" font-family="Consolas, Monaco, monospace" font-size="16">&lt;build / experiment / learn / ship /&gt;</text>
 </svg>
