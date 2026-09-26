@@ -115,10 +115,38 @@ Cinematic, video-first digital sales experience built around motion, storytellin
   <img src="https://skillicons.dev/icons?i=ethereum,solidity,git,github,vscode" alt="Ethereum, Solidity, Git, GitHub, VS Code" />
 </p>
 
-## CONTRIBUTION STREAK
+## 🔥 CONTRIBUTION STREAK
 
-<img src="https://streak-stats.demolab.com?user=shraaaa17&theme=transparent&hide_border=true&ring=7B337E&fire=6667AB&currStreakLabel=7B337E&sideLabels=420D4B&dates=6667AB" />
+<div align="center">
 
+<img src="./profile/streak.svg" width="70%" />
+
+</div>
+
+<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/shraaaa17/shraaaa17/output/github-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/shraaaa17/shraaaa17/output/github-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/shraaaa17/shraaaa17/output/github-snake.svg"
+    width="90%"
+  />
+
+</picture>
+
+</div>
 ## RESEARCH & HACKATHONS
 
 | Area | Work |
