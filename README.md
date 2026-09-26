@@ -1,61 +1,29 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shraaaa17/shraaaa17/main/assets/shravani-header.svg" alt="Shravani Ashish Chavan — Full Stack Developer, AI and Product Engineering" width="100%" />
+  <img src="https://raw.githubusercontent.com/shraaaa17/shraaaa17/main/assets/shravani-header.svg" alt="Shravani Ashish Chavan — Full Stack Developer" width="100%" />
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/shraaaa17/shravani-portfolio">Portfolio</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/">LinkedIn</a> &nbsp;•&nbsp;
-  <a href="mailto:shravanich.17@gmail.com">Email</a>
+  <a href="https://github.com/shraaaa17/shravani-portfolio">✦ Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/shraaaa17">⌘ Projects</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:shravanich.17@gmail.com">♡ Say hello</a>
 </div>
 
 <br />
 
 ## WHO I AM
 
-I'm **Shravani Ashish Chavan**, a Full Stack Developer and AI/Product builder who enjoys turning ambitious ideas into working digital products.
+I'm **Shravani Ashish Chavan**, a Full Stack Developer who enjoys turning ambitious ideas into working digital products.
 
 I like working where **engineering, AI, data, product thinking, and visual design** meet — from building full-stack applications to experimenting with intelligent workflows and interactive experiences.
 
 ```text
-22 · Mumbai, India
-B.E. Information Technology
-Full Stack Development · AI Product Engineering · FinTech · Web3
+22 · B.E. Information Technology
+Full Stack Development · AI · FinTech · Web3
 ```
-
-## WHAT I BUILD
-
-<table>
-<tr>
-<td width="50%">
-
-**01 · FULL STACK**  
-Web applications, APIs, databases, authentication, and product experiences.
-
-</td>
-<td width="50%">
-
-**02 · AI PRODUCTS**  
-GenAI, ML, computer vision, LLM integrations, and intelligent workflows.
-
-</td>
-</tr>
-<tr>
-<td>
-
-**03 · FINTECH / WEB3**  
-Payment concepts, risk technology, blockchain, smart contracts, and digital assets.
-
-</td>
-<td>
-
-**04 · PRODUCT EXPERIENCE**  
-Interactive interfaces, motion, visual storytelling, and creative frontend engineering.
-
-</td>
-</tr>
-</table>
 
 ## CURRENTLY BUILDING
 
@@ -131,10 +99,10 @@ Cinematic, video-first digital sales experience built around motion, storytellin
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,gsap" alt="React, Next.js, Tailwind CSS, HTML, CSS, GSAP" />
 </p>
 
-### Backend · Data · AI
+### AI / ML
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,fastapi,pandas,numpy,tensorflow" alt="Firebase, FastAPI, Pandas, NumPy, TensorFlow" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV" />
 </p>
 
 ### Web3 · Tools
@@ -142,6 +110,12 @@ Cinematic, video-first digital sales experience built around motion, storytellin
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ethereum,solidity,git,github,vscode" alt="Ethereum, Solidity, Git, GitHub, VS Code" />
 </p>
+
+## CONTRIBUTION STREAK
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shraaaa17&theme=transparent&hide_border=true&ring=7B337E&fire=6667AB&currStreakLabel=7B337E&sideLabels=420D4B&dates=6667AB" alt="GitHub contribution streak" width="70%" />
+</div>
 
 ## RESEARCH & HACKATHONS
 
@@ -169,8 +143,8 @@ Cinematic, video-first digital sales experience built around motion, storytellin
 
 ## WHAT I'M EXPLORING
 
-- **AI Product Engineering**
 - **Full Stack Development**
+- AI Product Engineering
 - Deep Learning and practical AI systems
 - FinTech and Risk Technology
 - Data Structures & Algorithms
@@ -182,16 +156,18 @@ I enjoy the creative side of technology too — **design, illustration, music, v
 
 For me, code is the medium; the product and the experience are the outcome.
 
-## LET'S CONNECT
+## FIND ME ON THE INTERNET
 
-<div align="center">
-
-**[🌐 Portfolio](https://github.com/shraaaa17/shravani-portfolio)** &nbsp; · &nbsp;
-**[💻 GitHub](https://github.com/shraaaa17)** &nbsp; · &nbsp;
-**[📫 Email](mailto:shravanich.17@gmail.com)**
+<table align="center">
+<tr>
+<td align="center" width="180"><a href="https://github.com/shraaaa17/shravani-portfolio">✦<br/><b>PORTFOLIO</b></a></td>
+<td align="center" width="180"><a href="https://github.com/shraaaa17">⌘<br/><b>GITHUB</b></a></td>
+<td align="center" width="180"><a href="mailto:shravanich.17@gmail.com">♡<br/><b>EMAIL</b></a></td>
+</tr>
+</table>
 
 <br />
 
-> *Turning ambitious ideas into scalable digital products through code, data, and innovation.*
-
+<div align="center">
+  <sub>made with curiosity · code · caffeine</sub>
 </div>
