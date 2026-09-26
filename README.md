@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/shraaaa17/shraaaa17/main/assets/shravani-header.svg" alt="Shravani Ashish Chavan — Full Stack Developer" width="100%" />
 
-# ☕ SHARVANI CHAVAN
+##SHARVANI CHAVAN
 
 **Full Stack Developer · AI · FinTech · Web3**
 
