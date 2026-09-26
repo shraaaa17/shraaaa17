@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <a href="https://github.com/shraaaa17/shravani-portfolio">✦ Portfolio</a>
+  <a href="https://portfolio-mocha-three-71.vercel.app/">✦ Portfolio</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://github.com/shraaaa17">⌘ Projects</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
@@ -16,7 +16,11 @@
 
 ## WHO I AM
 
-I'm **Shravani Ashish Chavan**, a Full Stack Developer who enjoys turning ambitious ideas into working digital products.
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7B337E&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer;AI+%7C+FinTech+%7C+Web3;Building+Ideas+Into+Products;Always+Learning+%26+Building" />
+
+</div>
 
 I like working where **engineering, AI, data, product thinking, and visual design** meet — from building full-stack applications to experimenting with intelligent workflows and interactive experiences.
 
@@ -25,7 +29,7 @@ I like working where **engineering, AI, data, product thinking, and visual desig
 Full Stack Development · AI · FinTech · Web3
 ```
 
-## CURRENTLY BUILDING
+## ⚡CURRENTLY BUILDING
 
 ```text
 → Full-stack products
@@ -113,9 +117,7 @@ Cinematic, video-first digital sales experience built around motion, storytellin
 
 ## CONTRIBUTION STREAK
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shraaaa17&theme=transparent&hide_border=true&ring=7B337E&fire=6667AB&currStreakLabel=7B337E&sideLabels=420D4B&dates=6667AB" alt="GitHub contribution streak" width="70%" />
-</div>
+<img src="https://streak-stats.demolab.com?user=shraaaa17&theme=transparent&hide_border=true&ring=7B337E&fire=6667AB&currStreakLabel=7B337E&sideLabels=420D4B&dates=6667AB" />
 
 ## RESEARCH & HACKATHONS
 
