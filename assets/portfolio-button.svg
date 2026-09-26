@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="54" viewBox="0 0 210 54" role="img" aria-label="Portfolio">
+  <rect x="1" y="1" width="208" height="52" rx="14" fill="#1B1410" stroke="#3A2A20"/>
+  <rect x="8" y="8" width="194" height="38" rx="10" fill="none" stroke="#B8794A" stroke-opacity=".32"/>
+  <text x="31" y="34" fill="#D6A06A" font-family="JetBrains Mono, monospace" font-size="18">⌂</text>
+  <text x="61" y="34" fill="#E8DCCB" font-family="JetBrains Mono, monospace" font-size="14" font-weight="600">PORTFOLIO</text>
+  <circle cx="184" cy="27" r="3" fill="#B8794A"/>
+</svg>
