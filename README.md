@@ -1,26 +1,22 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/shraaaa17/shraaaa17/main/assets/shravani-header.svg" alt="Shravani Ashish Chavan — Full Stack Developer" width="100%" />
-</div>
+
+<img src="https://raw.githubusercontent.com/shraaaa17/shraaaa17/main/assets/shravani-header.svg" alt="Shravani Ashish Chavan — Full Stack Developer" width="100%" />
+
+# ☕ SHARVANI CHAVAN
+
+**Full Stack Developer · AI · FinTech · Web3**
+
+*Building things, one cup at a time.*
 
 <br />
 
-<div align="center">
-  <a href="https://portfolio-mocha-three-71.vercel.app/">✦ Portfolio</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/shraaaa17">⌘ Projects</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="mailto:shravanich.17@gmail.com">♡ Say hello</a>
-</div>
-
-<br />
-
-## WHO I AM
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=7B337E&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer;AI+%7C+FinTech+%7C+Web3;Building+Ideas+Into+Products;Always+Learning+%26+Building" />
+[Portfolio](https://portfolio-mocha-three-71.vercel.app/) · [GitHub](https://github.com/shraaaa17) · [Say hello](mailto:shravanich.17@gmail.com)
 
 </div>
+
+---
+
+## About
 
 I like working where **engineering, AI, data, product thinking, and visual design** meet — from building full-stack applications to experimenting with intelligent workflows and interactive experiences.
 
@@ -29,149 +25,164 @@ I like working where **engineering, AI, data, product thinking, and visual desig
 Full Stack Development · AI · FinTech · Web3
 ```
 
-## ⚡CURRENTLY BUILDING
+## Currently Brewing
 
-```text
-→ Full-stack products
-→ AI-powered applications
-→ FinTech / Risk Technology projects
-→ Interactive web experiences
-→ Deeper ML & Deep Learning foundations
-→ Stronger Data Structures & Algorithms fundamentals
-```
+| | |
+|---|---|
+| **Full-stack products** | Building polished, practical web experiences |
+| **AI-powered applications** | Exploring intelligent workflows and decision systems |
+| **FinTech / Risk Technology** | Prototyping safer, smarter financial experiences |
+| **ML & Deep Learning** | Strengthening practical foundations |
+| **DSA** | Going deeper on problem solving and fundamentals |
 
-## FEATURED PRODUCTS
+---
+
+## Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💳 ElitePay
-**FinTech × Web3 × AI**
+### ElitePay
+
+**FinTech · Web3 · AI**
 
 Smart NFC payment ecosystem exploring offline payments, INR transactions, crypto-to-INR settlement, blockchain tracking, rewards, and AI-assisted risk analysis.
 
-**[View project →](https://github.com/shraaaa17/Elite.pay)**
+[View project →](https://github.com/shraaaa17/Elite.pay)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 ChainSense AI
-**AI × Optimization × Supply Chain**
+### ChainSense AI
+
+**AI · Optimization · Supply Chain**
 
 Decision-intelligence prototype combining simulation, NSGA-II multi-objective optimization, Gemini reasoning, and interactive visualization.
 
-**[View project →](https://github.com/shraaaa17/chainsense.ai)**
+[View project →](https://github.com/shraaaa17/chainsense.ai)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧹 CleanChain AI
-**Computer Vision × Blockchain**
+### CleanChain AI
+
+**Computer Vision · Blockchain**
 
 Hackathon prototype exploring AI-based cleanup verification, impact scoring, and blockchain-backed environmental records.
 
-**[View project →](https://github.com/shraaaa17/CLEANCHAIN.AI)**
+[View project →](https://github.com/shraaaa17/CLEANCHAIN.AI)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎬 DigiDeck
-**Frontend × Product Experience**
+### DigiDeck
+
+**Frontend · Product Experience**
 
 Cinematic, video-first digital sales experience built around motion, storytelling, responsive interaction, and modern React/Next.js tooling.
 
-**[View project →](https://github.com/shraaaa17/digideck)**
+[View project →](https://github.com/shraaaa17/digideck)
 
 </td>
 </tr>
 </table>
 
-## TECH STACK
+---
 
-### Languages
+## My Toolkit
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,js,ts,mysql" alt="Python, Java, C#, JavaScript, TypeScript, SQL" />
-</p>
+**Languages**
 
-### Frontend
+![Python](https://img.shields.io/badge/Python-1B1410?style=flat-square&logo=python&logoColor=D6A06A)
+![Java](https://img.shields.io/badge/Java-1B1410?style=flat-square&logo=openjdk&logoColor=D6A06A)
+![C%23](https://img.shields.io/badge/C%23-1B1410?style=flat-square&logo=csharp&logoColor=D6A06A)
+![JavaScript](https://img.shields.io/badge/JavaScript-1B1410?style=flat-square&logo=javascript&logoColor=D6A06A)
+![TypeScript](https://img.shields.io/badge/TypeScript-1B1410?style=flat-square&logo=typescript&logoColor=D6A06A)
+![SQL](https://img.shields.io/badge/SQL-1B1410?style=flat-square&logo=mysql&logoColor=D6A06A)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,gsap" alt="React, Next.js, Tailwind CSS, HTML, CSS, GSAP" />
-</p>
+**Frontend**
 
-### AI / ML
+![React](https://img.shields.io/badge/React-1B1410?style=flat-square&logo=react&logoColor=D6A06A)
+![Next.js](https://img.shields.io/badge/Next.js-1B1410?style=flat-square&logo=nextdotjs&logoColor=D6A06A)
+![Tailwind](https://img.shields.io/badge/Tailwind-1B1410?style=flat-square&logo=tailwindcss&logoColor=D6A06A)
+![HTML](https://img.shields.io/badge/HTML-1B1410?style=flat-square&logo=html5&logoColor=D6A06A)
+![CSS](https://img.shields.io/badge/CSS-1B1410?style=flat-square&logo=css3&logoColor=D6A06A)
+![GSAP](https://img.shields.io/badge/GSAP-1B1410?style=flat-square&logo=greensock&logoColor=D6A06A)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV" />
-</p>
+**AI / ML**
 
-### Web3 · Tools
+![PyTorch](https://img.shields.io/badge/PyTorch-1B1410?style=flat-square&logo=pytorch&logoColor=D6A06A)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1B1410?style=flat-square&logo=tensorflow&logoColor=D6A06A)
+![OpenCV](https://img.shields.io/badge/OpenCV-1B1410?style=flat-square&logo=opencv&logoColor=D6A06A)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ethereum,solidity,git,github,vscode" alt="Ethereum, Solidity, Git, GitHub, VS Code" />
-</p>
+**Web3 · Tools**
 
-## 🔥 CONTRIBUTION STREAK
+![Ethereum](https://img.shields.io/badge/Ethereum-1B1410?style=flat-square&logo=ethereum&logoColor=D6A06A)
+![Solidity](https://img.shields.io/badge/Solidity-1B1410?style=flat-square&logo=solidity&logoColor=D6A06A)
+![Git](https://img.shields.io/badge/Git-1B1410?style=flat-square&logo=git&logoColor=D6A06A)
+![GitHub](https://img.shields.io/badge/GitHub-1B1410?style=flat-square&logo=github&logoColor=D6A06A)
+![VS Code](https://img.shields.io/badge/VS_Code-1B1410?style=flat-square&logo=visualstudiocode&logoColor=D6A06A)
+
+---
+
+## GitHub, Lately ☕
 
 <div align="center">
 
-<img src="./profile/streak.svg" width="70%" />
+<img src="./profile/streak.svg" width="70%" alt="GitHub contribution streak" />
+
+<br /><br />
+
+<sub>slowly brewing · one contribution at a time</sub>
 
 </div>
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+<br />
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/shraaaa17/shraaaa17/output/github-snake-dark.svg"
-  />
+<a href="https://github.com/shraaaa17">
+<img src="https://github-readme-stats.vercel.app/api?username=shraaaa17&show_icons=true&hide_border=true&bg_color=0F0B08&title_color=D6A06A&text_color=E8DCCB&icon_color=B8794A&ring_color=B8794A" width="48%" alt="GitHub stats" />
+</a>
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/shraaaa17/shraaaa17/output/github-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/shraaaa17/shraaaa17/output/github-snake.svg"
-    width="90%"
-  />
-
-</picture>
+<a href="https://github.com/shraaaa17">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shraaaa17&hide_border=true&background=0F0B08&ring=B8794A&fire=D6A06A&currStreakLabel=D6A06A&sideLabels=B9A895&currStreakNum=E8DCCB&sideNums=E8DCCB&dates=6F6257" width="48%" alt="GitHub streak" />
+</a>
 
 </div>
-## RESEARCH & HACKATHONS
+
+---
+
+## Research & Hackathons
 
 | Area | Work |
 |---|---|
-| 🧬 **Research** | Pathogenic SNV prediction and genomic variant analysis |
-| 🚚 **Research** | Multi-objective smart logistics optimization using MILP, Gurobi and NSGA-II |
-| 🧹 **Hackathon** | CleanChain AI — AI + blockchain environmental verification |
-| 🧠 **Hackathon** | ChainSense AI — AI-assisted supply-chain decision intelligence |
-| 💳 **Product** | ElitePay — FinTech / NFC / Web3 product prototype |
+| **Research** | Pathogenic SNV prediction and genomic variant analysis |
+| **Research** | Multi-objective smart logistics optimization using MILP, Gurobi and NSGA-II |
+| **Hackathon** | CleanChain AI — AI + blockchain environmental verification |
+| **Hackathon** | ChainSense AI — AI-assisted supply-chain decision intelligence |
+| **Product** | ElitePay — FinTech / NFC / Web3 product prototype |
 
-## MY JOURNEY
+---
+
+## My Journey
 
 ```text
-2024 ── Data Analytics & Technical Foundations
+2024     Data Analytics & Technical Foundations
   │
-2025 ── Research · ML · Smart Logistics Optimization
+2025     Research · ML · Smart Logistics Optimization
   │
-2025/26 ── Hackathons · AI · Web3 · Product Prototyping
+2025/26  Hackathons · AI · Web3 · Product Prototyping
   │
-2026 ── Full Stack Development · AI Product Engineering
+2026     Full Stack Development · AI Product Engineering
   │
-  └── Next → deeper systems, DSA, ML & scalable product engineering
+  └──→   deeper systems · DSA · ML · scalable product engineering
 ```
 
-## WHAT I'M EXPLORING
+## Still Steeping
 
 - **Full Stack Development**
 - AI Product Engineering
@@ -180,24 +191,28 @@ Cinematic, video-first digital sales experience built around motion, storytellin
 - Data Structures & Algorithms
 - Scalable product architecture
 
-## BEYOND CODE
+---
+
+## Beyond Code
 
 I enjoy the creative side of technology too — **design, illustration, music, visual storytelling, and experimenting with new product ideas**.
 
 For me, code is the medium; the product and the experience are the outcome.
 
-## FIND ME ON THE INTERNET
+---
 
-<table align="center">
-<tr>
-<td align="center" width="180"><a href="https://github.com/shraaaa17/shravani-portfolio">✦<br/><b>PORTFOLIO</b></a></td>
-<td align="center" width="180"><a href="https://github.com/shraaaa17">⌘<br/><b>GITHUB</b></a></td>
-<td align="center" width="180"><a href="mailto:shravanich.17@gmail.com">♡<br/><b>EMAIL</b></a></td>
-</tr>
-</table>
+## Let's Connect
+
+<div align="center">
+
+[**Portfolio**](https://github.com/shraaaa17/shravani-portfolio) · [**GitHub**](https://github.com/shraaaa17) · [**Email**](mailto:shravanich.17@gmail.com)
 
 <br />
 
-<div align="center">
-  <sub>made with curiosity · code · caffeine</sub>
+☕ **say hello over coffee**
+
+<br />
+
+<sub>made with curiosity · code · caffeine</sub>
+
 </div>
