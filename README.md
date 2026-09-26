@@ -1,23 +1,19 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shraaaa17/shraaaa17/main/assets/shravani-header.svg" alt="Shravani Ashish Chavan — Full Stack Developer" width="100%" />
-
-##SHARVANI CHAVAN
-
-**Full Stack Developer · AI · FinTech · Web3**
-
-*Building things, one cup at a time.*
+<img width="1584" height="396" alt="Black Monochrome Business LinkedIn Banner" src="https://github.com/user-attachments/assets/29cbcb74-287e-4a39-a9e5-d9237aa7a3e1" />
 
 <br />
 
-[Portfolio](https://portfolio-mocha-three-71.vercel.app/) · [GitHub](https://github.com/shraaaa17) · [Say hello](mailto:shravanich.17@gmail.com)
+[Portfolio📜](https://portfolio-mocha-three-71.vercel.app/) · [GitHub🖇️](https://github.com/shraaaa17) · [Say hello🧸](mailto:shravanich.17@gmail.com)
 
 </div>
 
 ---
 
 ## About
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=ddc2ac&center=true&vCenter=true&width=700&height=60&lines=Full+Stack+Developer;AI+%7C+FinTech+%7C+Web3;Building+Ideas+Into+Products;Always+Learning+%26+Building" />
+
+</div>
 I like working where **engineering, AI, data, product thinking, and visual design** meet — from building full-stack applications to experimenting with intelligent workflows and interactive experiences.
 
 ```text
@@ -130,15 +126,7 @@ Cinematic, video-first digital sales experience built around motion, storytellin
 
 ## GitHub, Lately ☕
 
-<div align="center">
 
-<img src="./profile/streak.svg" width="70%" alt="GitHub contribution streak" />
-
-<br /><br />
-
-<sub>slowly brewing · one contribution at a time</sub>
-
-</div>
 
 <br />
 
@@ -199,7 +187,7 @@ For me, code is the medium; the product and the experience are the outcome.
 
 <div align="center">
 
-[**Portfolio**](https://github.com/shraaaa17/shravani-portfolio) · [**GitHub**](https://github.com/shraaaa17) · [**Email**](mailto:shravanich.17@gmail.com)
+[**Portfolio ✮💻**](https://github.com/shraaaa17/shravani-portfolio) · [**GitHub </>**](https://github.com/shraaaa17) · [**Email ˚.💌**](mailto:shravanich.17@gmail.com)
 
 <br />
 
